@@ -1,7 +1,7 @@
 export default function BibPage(){
     return (
         <>
-            <h2>Bibliography:</h2>
+            <h1>Bibliography:</h1>
             <ul>
                 <li></li>
             </ul>
