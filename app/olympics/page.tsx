@@ -72,14 +72,9 @@ export default function Olympics() {
                                 text.
                             </p>
                         </div>
-                        <div className="my-5">
-                            <h3 className="text-xl font-medium text-gray-800 mb-3">1991 World Table Tennis</h3>
-                            <p className="text-gray-600">
-                                text.
-                            </p>
-                        </div>
                     </div>
                 </div>
+
                 <div className="mt-8 flex justify-center space-x-4">
                     <Link
                         href="/ppd"
