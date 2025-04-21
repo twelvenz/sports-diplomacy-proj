@@ -20,10 +20,24 @@ export default function Homepage() {
                     <h2 className="text-2xl font-semibold text-rose-700 mb-4">Introduction</h2>
                     <div className="space-y-4 text-gray-600">
                         <p className="text-gray-500 text-lg">
-                            Sports have always served as a platform for engagement.
-                            Through moments of sportsmanship and fair competition, nations have found
-                            common ground, built bridges, and sometimes even eased tensions during
-                            periods of conflict.
+                            Throughout history, sports have proven to be far more than just games being played. Sports are
+                            a reflection of culture, values, and relationships. For example, in times of political tension
+                            or ideological division, sporting events helped mend ties when traditional diplomacy struggled,
+                            as sports offer a platform for sportsmanship, engagement and communication.
+                        </p>
+                        <p className="text-gray-500 text-lg">
+                            So, how have sporting events contributed to diplomatic efforts and conflict resolution between
+                            countries? Well, sporting events have in many cases promoted dialogue, created understandings,
+                            and ignited engagement between conflicting parties. In the world of politics, events such as
+                            Ping Pong Diplomacy between the United States and China, everything that happened during the
+                            2008 Beijing Olympics, and the efforts of both North and South Korea to collaborate in international
+                            sporting events, all highlight the role of athletics in easing tensions and building bridges.
+                            These moments show that even in the midst of tension and conflict, nations can find common ground
+                            through the shared values of competition and respect in sports.
+                            Sports are one of the few places where cooperation is heavily promoted, where teamwork is valued,
+                            and where nations can come together not as adversaries, but as participants in a larger picture,
+                            a global sports community. Sports bring people, and countries, together. As Nelson Mandela says,
+                            "Sport has the power to change the world."
                         </p>
                         <Image
                             src="/mandelaquote.jpg"
