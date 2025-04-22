@@ -34,13 +34,13 @@ export default function Other() {
                         <div className="my-5">
                             <h3 className="text-xl font-medium text-gray-800 mb-3">Dennis Rodman in North Korea</h3>
                             <p className="text-gray-600 text-lg">
-                                Dennis Rodman's visit to North Korea in 2013 shows how popular athletes can bridge political
+                                Dennis Rodman&#39;s visit to North Korea in 2013 shows how popular athletes can bridge political
                                 and cultural divides too, sometimes even better than traditional diplomacy. Rodman used
                                 his celebrity status and friendship with Kim Jong Un open communications between North Korea
-                                and other countries. Though the visit was highly controversial and widely criticized, Rodman's
+                                and other countries. Though the visit was highly controversial and widely criticized, Rodman&#39;s
                                 trip showed the power of sports in fostering dialogue and easing tensions. His trip helped
-                                further relations between the US and North Korea, with Rodman's influence expanding to even
-                                negotiating a prisoner release from North Korea. This wouldn't have been possible without
+                                further relations between the US and North Korea, with Rodman&#39;s influence expanding to even
+                                negotiating a prisoner release from North Korea. This would not have been possible without
                                 sports, because Kim Jong Un reportedly was a fan of Dennis Rodman the Chicago Bulls basketball
                                 team.
                             </p>

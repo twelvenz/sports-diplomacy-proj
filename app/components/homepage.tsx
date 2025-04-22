@@ -37,7 +37,7 @@ export default function Homepage() {
                             Sports are one of the few places where cooperation is heavily promoted, where teamwork is valued,
                             and where nations can come together not as adversaries, but as participants in a larger picture,
                             a global sports community. Sports bring people, and countries, together. As Nelson Mandela says,
-                            "Sport has the power to change the world."
+                            “Sport has the power to change the world.”
                         </p>
                         <Image
                             src="/mandelaquote.jpg"

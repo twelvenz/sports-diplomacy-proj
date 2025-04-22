@@ -14,7 +14,7 @@ export default function Olympics() {
                     <div className="space-y-6">
                         <div>
                             <p className="text-gray-600 text-lg">
-                                The 2008 Beijing Olympics was huge for China. It was the first time they've held the Olympics,
+                                The 2008 Beijing Olympics was huge for China. It was the first time they have held the Olympics,
                                 and they capitalized on every opportunity. The 2008 Olympics was a major success for China,
                                 not only in terms of athletic achievement but also in terms of diplomacy and global
                                 image-building.  Hosting the Olympics allowed China to display themselves as a modern, capable,

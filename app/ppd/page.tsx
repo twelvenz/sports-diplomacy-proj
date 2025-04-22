@@ -59,7 +59,7 @@ export default function PPD() {
 
                     <div>
                         <h2 className="text-2xl font-semibold text-rose-700 mb-2">
-                            Nixon's Visit
+                            Nixon&#39;s Visit
                         </h2>
                         <p className="text-gray-600 text-lg">
                             Kissinger makes a secret trip to China in July of 1971 to visit Premier Zhou Enlai and set
