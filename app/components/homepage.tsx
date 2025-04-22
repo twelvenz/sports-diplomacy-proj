@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Homepage() {
     return (
-        <div className="w-full px-4">
+        <div className="w-full py-8 px-4">
             <div className="max-w-4xl mx-auto">
                 <div className="mb-8 p-6 rounded-lg">
                     <h1 className="text-3xl font-bold text-center text-rose-800 mb-2">Sport Diplomacy</h1>

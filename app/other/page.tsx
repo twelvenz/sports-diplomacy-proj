@@ -15,17 +15,34 @@ export default function Other() {
                         <div className="my-5">
                             <h3 className="text-xl font-medium text-gray-800 mb-3">1991 World Table Tennis</h3>
                             <p className="text-gray-600 text-lg">
-                                text.
+                                One of the earliest and most significant moments of sports diplomacy between North and
+                                South Korea occurred at the 41st World Table Tennis Championships in Chiba, Japan. The
+                                two countries agreed to form a unified Korean team, so they competed under a single flag
+                                and name. The Korea team upset their longtime rival, the Chinese team, to win themselves the
+                                championship. It was a victory that resonated far beyond the sport itself. The teamwork
+                                and unity displayed by athletes from the Koreas showed the power of cooperation and peace
+                                between the nations. It highlighted the potential of sports to bridge deep political divides.
                             </p>
+                            <Image
+                                src="/1991pingpong.jpg"
+                                width={600}
+                                height={500}
+                                alt="Image of the unified Korea team in 1991 World Table Tennis Championship"
+                                className="m-auto mb-6 p-5 w-80% h-auto"
+                            />
                         </div>
                         <div className="my-5">
                             <h3 className="text-xl font-medium text-gray-800 mb-3">Dennis Rodman in North Korea</h3>
                             <p className="text-gray-600 text-lg">
-                                Dennis Rodman's visit to North Korea in 2013 shows how popular athletes can bridge political and
-                                cultural divides alone, better than traditional diplomacy. Rodman used his celebrity status and
-                                friendship with Kim Jong Un open communications between North Korea and other countries. Though the
-                                visit was highly controversial and widely criticized, Rodman's trip showed power of sports in
-                                fostering dialogue and easing tensions.
+                                Dennis Rodman's visit to North Korea in 2013 shows how popular athletes can bridge political
+                                and cultural divides too, sometimes even better than traditional diplomacy. Rodman used
+                                his celebrity status and friendship with Kim Jong Un open communications between North Korea
+                                and other countries. Though the visit was highly controversial and widely criticized, Rodman's
+                                trip showed the power of sports in fostering dialogue and easing tensions. His trip helped
+                                further relations between the US and North Korea, with Rodman's influence expanding to even
+                                negotiating a prisoner release from North Korea. This wouldn't have been possible without
+                                sports, because Kim Jong Un reportedly was a fan of Dennis Rodman the Chicago Bulls basketball
+                                team.
                             </p>
                             <Image
                                 src="/rodman.jpeg"
